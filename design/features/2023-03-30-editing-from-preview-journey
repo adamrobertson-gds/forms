@@ -1,0 +1,72 @@
+# Editing from the preview journey
+
+## Status
+
+Date created: *2023-03-30*  
+
+Date updated: *2023-03-30*  
+
+Hypothesis
+
+Trello card: https://trello.com/c/K3X2uDWp/545-spike-explore-options-for-editing-pages-when-looking-at-a-preview-of-a-form-in-a-separate-tab 
+Mural: https://app.mural.co/invitation/mural/gaap0347/1679397321141?sender=ue1ef9fc3c2ad3697c3c93132&key=7b4b09f5-cd65-49a1-9758-02b732afa098
+
+___
+
+## Contents
+
+- [Feature name](#feature-name)
+  - [Status](#status)
+  - [Contents](#contents)
+  - [What](#what)
+  - [Why](#why)
+  - [How will we measure it](#how-will-we-measure-it)
+
+___
+
+<br>
+
+## What
+
+When users were testing their forms the wanted to step through the pages as an end user (form filler) would. As they travelled through their form, they spotted some mistakes within some pages and wanted to quickly get back to the editor screen for that page.
+
+It is currently causing issues as some lower digitally confident users aren't realising they are in a new window/tab and are trying to click back to return to the editor.
+Once they get back to the form overview page they have forgotten what page it was they saw the error.
+
+<br>
+
+## Why
+
+> Why are we doing it?  
+> - any hypotheses that evidence the idea
+>    - include user research
+>    - feedback
+>    - analytics
+>    - other?
+> - a clear outline of where the feature has come from
+>    - research
+>    - team idea
+>    - business requirement
+>    - other
+
+We believe by offering them an "Edit this page" option somewhere within the test/preview journey they will be able to fix mistakes quicker and easier.
+
+<br>
+
+## How will we measure it
+
+> How will we validate this iteration/design? 
+> - how we will know if the feature has worked
+>   - does it help users?
+>   - does it mean form processors get better data?
+>   - does it mean the form creator has an easier/better experience creating/updating their form?
+>   - are there clear numerical outcomes we want to log against it?
+>     - for example 80% (or 4 out of 5) users we tested with found it easier to find and edit a mistake when previewing the form, versus the previous version 
+
+<br>
+
+___
+
+<br>
+
+[Back to the top](#feature-template)
